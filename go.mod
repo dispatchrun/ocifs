@@ -1,6 +1,6 @@
 module github.com/stealthrocket/ocifs
 
-go 1.19
+go 1.20
 
 require (
 	github.com/stealthrocket/fslink v0.1.3
